@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "poised-legend-451008-j5",
+  "private_key_id": "0c9e2ed6e1e8557b8dc7a79fc67efebae0fedf1f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCz/Hk9UMXRVi6Q\ntqFJTZVkXnod3zES5AYy01TrLbVIHV3LoTX1JbsWEbdQicVleQC/jNXIUUztJ9L7\nA97UVFQiV3y/Dm37hecjt3ETVpbdIOwZX7HoNFGXP6NJnfumdvCHt2gWeVtC+E8O\n6W5WSFnkQggPnK/7ZqUtk1x1OXaEQebyRBwRA1arudiUju/+MWWjgu1YdpUavxgB\n6I85nihr27G64rSKHQu8nd7zV4OFypk//G2ZmrAVTLXC6aSk2ZWHMTVSCZaW8rXf\nAF8wUe5Um3bmYWJ8uw9pB+fnMVFZ9cZSbG5iaxw/Rrs4wnLqPwNqdLT95iAugbvq\n2yQVDHBLAgMBAAECggEAN/svOoMFBDdqBFjJkaMv9Cfuk5v4B4gk5WoV35A38lYv\n9kYOIlG5/wNDoSk43HbmZK3JUKT46EqatLhfdmtEP+o2QraaPsFHQzSrVvh3tA+p\nX7sD+tVLC2AfyaX5v6z+4zeIiHT2jb3t2RWB3BRk4Tooh7KUif1DIwnSmCNnWXsf\nJ+3HwselReIB3caw/r5FRWpmdyBqHnYHcw2LATh2bXj86rD8tn1sc91WlaDDx7lz\n5Rx8FmIHynOlfjw7Es/QqGunzPPglX+VMkge8jIhz0oQDEmQf0Zc5P/dBdcb9aI8\n/8bOq+fzszsuIHkQZzvaehjrHiGGP44vfTaYxZEGAQKBgQD2pKnQRW11vWf/AGyh\niS50YPFrYfRplzG4QMSczxS6r9g2URigbzWKb1C9ilFRYYqtOtlBvS+QRcnMnW0+\n3so2vX/98K7KYDaPoOwOg3gHKD/qLHjiIshtAlaCzkDCQmSxqM2dWivQeMKAy/cm\nkKO5UjfIgPY8JZhmORi678DQ4wKBgQC60HRSa1d8SkJ7I3/CiIMXy2n5TaGAU1MG\n0vYoFUs91fFETxclsa80UzTi4UvN90YBVoObv+iI8ohWO/hDBdKkaUlTmuDbXh4T\nIS1q3nhlWNFPW/KWvu93qKSCXQHRPiuSbUo9Tkr0oI10WdC2cZDRp95qY9yLm1ep\n8mLjXdaHeQKBgAzxQRPzwLWv9bgU3p5vY2ep+qEm57tuuqYvh+GuoCjXt2HKSZ+J\nlmaoRrVbf77kfnFuqB3h/o/0iY1aKXRmHnhW41OBALsP520MBbcRQQgnHYt9P+6l\n4pyNxdphVlabQ0trTzbVl3z+CT7W9SYp6t17qf+0fLdVRbT/hAOzNwv/AoGABaHz\nX+jMonq6tmvDlmH3UehYMaQdknjwr+v8cAj0U9D3jU+1KvXIipNXrN+OIY+rFK8/\nGJsYr8hgQ/la6upqB3sFMvggf3y++2SsseQzTRr4dKQZFGJ9ZeY3z5ZuT5jIR4n0\nCxUpPWb53OA4YsfZzfh5xEtugucUJZOhV6mkpkECgYEAyHg//w93gtPrTV3NyI6K\n9E+TfSDm/euNyx4yHnZiZU4NtsX2Y835towr+1m2x92zZcmhmKNe314fumdfO9Zr\nULkZTJzFmZH+GICAm5HpbB5SPraCu4f/ixH+/KlZfpCvVCUZx28mXU6XhdTwRB+N\nd14fhTOwCSAVZRZmP+GkDXQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "n8n-google-sheets@poised-legend-451008-j5.iam.gserviceaccount.com",
+  "client_id": "103358526639353340023",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/n8n-google-sheets%40poised-legend-451008-j5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
